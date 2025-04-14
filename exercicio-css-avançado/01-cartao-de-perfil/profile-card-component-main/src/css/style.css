@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+.perfil{
+    width: 100%;
+    text-align: center;
+}
+.imagem-usuario{
+    border-radius: 55px;
+    width: 110px;
+}
+
+.nome-usuario{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.localizacao{
+    opacity: 50%;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.idade{
+    opacity: 50%;
+    font-weight: 700;
+}
+
+.estatisticas{
+    display: flex;
+    justify-content: space-between;
+    margin-top: px;
+    gap: 20px;
+}
+
+strong {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+span {
+    opacity: 50%;
+    font-weight: 500;
+}
+
+hr {
+
+        border: none;
+        height: 2px;
+        background-color: #ccc;
+        margin: 30px -30px; /* Compensa o padding horizontal de 30px */
+
+      
+}

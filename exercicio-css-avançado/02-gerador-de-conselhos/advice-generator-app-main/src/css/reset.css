@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  background-color: hsl(218, 23%, 16%);  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  width: 591px;
+  height: 333px;
+  border-radius: 10px;
+  background-color: hsl(217, 19%, 24%);
+}
+
+h2{
+  color: hsl(150, 100%, 66%);
+
+}
+
