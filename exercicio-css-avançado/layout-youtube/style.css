@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto;
+}
+
+.destaque{
+    height: 400px;
+    background-color: #c4c4c4;
+}
+
+.lateral{
+    background-color: #c4c4c4;
+    height: 400px;
+}
+
+
+
